@@ -1,0 +1,25 @@
+Subject: [SIMULATION - DO NOT RESPOND] Action Required: Account Verification Needed
+From: "Support Team" <no-reply@example-training.local>
+To: test.user@testlab.local
+Date: Tue, 23 Sep 2025 10:00:00 +0530
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hello Test User,
+
+[SIMULATION - DO NOT RESPOND] This is a simulated phishing sample created for training only.
+
+We detected unusual activity on your account. To avoid temporary suspension, please verify your account immediately by visiting the link below:
+
+Verify your account (training only):
+http://example-training.local/simulated-verify
+
+Important: You must verify within 24 hours or your access will be restricted.
+
+If you have already verified, please ignore this message.
+
+Regards,
+Training Support Team
+[SIMULATION - DO NOT RESPOND]
+
+Attachment: verify_instructions.txt
